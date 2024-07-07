@@ -122,9 +122,9 @@ I'm a student enrolled at Vellore Institute of Technology, where I'm currently p
 - Qualify for GSOC and ICPC World Finals!
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/shreyanshchaubey?label=Follow&style=social)](https://github.com/MAHEKHTIWARI)
-[![Linkedin](https://img.shields.io/badge/-shreyansh%20chaubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyansh-chaubey-508395233/)](https://www.linkedin.com/in/mahek-tiwari-76a285251/)
-[![Mail](https://img.shields.io/badge/-chaubeyshreyansh0@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/shreyansh-chaubey-508395233/)](mailto:mahek.tiwari2021@vitstudent.ac.in)
+[![Github](https://img.shields.io/github/followers/MAHEKHTIWARI?label=Follow&style=social)](https://github.com/MAHEKHTIWARI)
+[![Linkedin](https://img.shields.io/badge/-Mahek%20Tiwari-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mahek-tiwari-76a285251/)](https://www.linkedin.com/in/mahek-tiwari-76a285251/)
+[![Mail](https://img.shields.io/badge/-mahek.tiwari2021@vitstudent.ac.in-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/mahek-tiwari-76a285251/)](mailto:mahek.tiwari2021@vitstudent.ac.in)
 
 
 Thanks for stopping by! 😁
